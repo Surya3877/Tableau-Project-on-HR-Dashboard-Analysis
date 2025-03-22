@@ -1,1 +1,1 @@
-# Tableau-Project-on-HR-Dashboard-Analysis
+# Tableau-Project-on-HR-Data-Analysis
